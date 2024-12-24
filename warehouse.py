@@ -240,4 +240,4 @@ class Depots:
             elif inp1 == '0':
                 break 
             else:
-                print("by.")             
+                print("byyyyyyyyy.")             
